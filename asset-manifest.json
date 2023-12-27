@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/example-login-flow-product/static/css/main.d9843b8c.css",
+    "main.js": "/example-login-flow-product/static/js/main.03d8b3af.js",
+    "index.html": "/example-login-flow-product/index.html",
+    "main.d9843b8c.css.map": "/example-login-flow-product/static/css/main.d9843b8c.css.map",
+    "main.03d8b3af.js.map": "/example-login-flow-product/static/js/main.03d8b3af.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d9843b8c.css",
+    "static/js/main.03d8b3af.js"
+  ]
+}
